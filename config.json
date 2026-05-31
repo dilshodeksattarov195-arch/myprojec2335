@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsarse",
+        "uuid": 6477290,
+        "checksum": "kfgti3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
